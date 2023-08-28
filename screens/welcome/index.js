@@ -16,7 +16,7 @@ const WelcomeScreen = () => {
         <View style={styles.group}>
           <Image style={styles.logo} source={require("./logo.png")} />
           <Text style={styles.text}>
-            Let's build something amazing together!
+            Let's build something amazing together! changes
           </Text>
         </View>
         <Text style={styles.footer}>Made with ❤️ by Crowdbotics</Text>
